@@ -8,8 +8,8 @@ Getting token:
 3. Find Authorzation. This is your `token`
 
 Render side:
-- Installation command: pip install -r requirements.txt
-- Run command: python main.py
+- Installation command: `pip install -r requirements.txt`
+- Run command: `python main.py`
 - Environment variables:
   - `token`: your_discord_token
   - `status`: normal status, can be `online`, `dnd`, `idle`
